@@ -1,7 +1,7 @@
 var documenterSearchIndex = {"docs": [
 
 {
-    "location": "index.html#",
+    "location": "#",
     "page": "Home",
     "title": "Home",
     "category": "page",
@@ -9,7 +9,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "index.html#PassiveTracerFlows.jl-Documentation-1",
+    "location": "#PassiveTracerFlows.jl-Documentation-1",
     "page": "Home",
     "title": "PassiveTracerFlows.jl Documentation",
     "category": "section",
@@ -17,7 +17,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "index.html#Overview-1",
+    "location": "#Overview-1",
     "page": "Home",
     "title": "Overview",
     "category": "section",
@@ -25,7 +25,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "index.html#Developers-1",
+    "location": "#Developers-1",
     "page": "Home",
     "title": "Developers",
     "category": "section",
@@ -33,7 +33,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "index.html#Cite-1",
+    "location": "#Cite-1",
     "page": "Home",
     "title": "Cite",
     "category": "section",
@@ -41,7 +41,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "modules/traceradvdiff.html#",
+    "location": "modules/traceradvdiff/#",
     "page": "TracerAdvDiff Module",
     "title": "TracerAdvDiff Module",
     "category": "page",
@@ -49,7 +49,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "modules/traceradvdiff.html#TracerAdvDiff-Module-1",
+    "location": "modules/traceradvdiff/#TracerAdvDiff-Module-1",
     "page": "TracerAdvDiff Module",
     "title": "TracerAdvDiff Module",
     "category": "section",
@@ -57,7 +57,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "modules/traceradvdiff.html#Basic-Equations-1",
+    "location": "modules/traceradvdiff/#Basic-Equations-1",
     "page": "TracerAdvDiff Module",
     "title": "Basic Equations",
     "category": "section",
@@ -65,7 +65,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "modules/traceradvdiff.html#Implementation-1",
+    "location": "modules/traceradvdiff/#Implementation-1",
     "page": "TracerAdvDiff Module",
     "title": "Implementation",
     "category": "section",
@@ -73,7 +73,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#",
+    "location": "man/types/#",
     "page": "Private types",
     "title": "Private types",
     "category": "page",
@@ -81,7 +81,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#Private-types-1",
+    "location": "man/types/#Private-types-1",
     "page": "Private types",
     "title": "Private types",
     "category": "section",
@@ -89,7 +89,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#Private-types-in-module-PassiveTracerFlows:-1",
+    "location": "man/types/#Private-types-in-module-PassiveTracerFlows:-1",
     "page": "Private types",
     "title": "Private types in module PassiveTracerFlows:",
     "category": "section",
@@ -97,7 +97,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#PassiveTracerFlows.TracerAdvDiff.ConstDiffParams",
+    "location": "man/types/#PassiveTracerFlows.TracerAdvDiff.ConstDiffParams",
     "page": "Private types",
     "title": "PassiveTracerFlows.TracerAdvDiff.ConstDiffParams",
     "category": "type",
@@ -105,7 +105,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#PassiveTracerFlows.TracerAdvDiff.ConstDiffSteadyFlowParams",
+    "location": "man/types/#PassiveTracerFlows.TracerAdvDiff.ConstDiffSteadyFlowParams",
     "page": "Private types",
     "title": "PassiveTracerFlows.TracerAdvDiff.ConstDiffSteadyFlowParams",
     "category": "type",
@@ -113,7 +113,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#PassiveTracerFlows.TracerAdvDiff.Vars-Tuple{Any}",
+    "location": "man/types/#PassiveTracerFlows.TracerAdvDiff.Vars-Tuple{Any}",
     "page": "Private types",
     "title": "PassiveTracerFlows.TracerAdvDiff.Vars",
     "category": "method",
@@ -121,7 +121,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/types.html#Private-types-in-module-PassiveTracerFlows:-2",
+    "location": "man/types/#Private-types-in-module-PassiveTracerFlows:-2",
     "page": "Private types",
     "title": "Private types in module PassiveTracerFlows:",
     "category": "section",
@@ -129,7 +129,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/functions.html#",
+    "location": "man/functions/#",
     "page": "Functions",
     "title": "Functions",
     "category": "page",
@@ -137,7 +137,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/functions.html#Functions-1",
+    "location": "man/functions/#Functions-1",
     "page": "Functions",
     "title": "Functions",
     "category": "section",
@@ -145,7 +145,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/functions.html#Functions-exported-from-PassiveTracerFlows:-1",
+    "location": "man/functions/#Functions-exported-from-PassiveTracerFlows:-1",
     "page": "Functions",
     "title": "Functions exported from PassiveTracerFlows:",
     "category": "section",
@@ -153,7 +153,7 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "man/functions.html#Functions-exported-from-TracerAdvDiff:-1",
+    "location": "man/functions/#Functions-exported-from-TracerAdvDiff:-1",
     "page": "Functions",
     "title": "Functions exported from TracerAdvDiff:",
     "category": "section",
