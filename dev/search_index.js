@@ -153,6 +153,22 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
+    "location": "man/functions/#PassiveTracerFlows.TracerAdvDiff.set_c!-Tuple{Any,Any}",
+    "page": "Functions",
+    "title": "PassiveTracerFlows.TracerAdvDiff.set_c!",
+    "category": "method",
+    "text": "set_c!(prob, c)\nset_c!(prob, c::Function)\n\nSet the solution sol as the transform of c and update variables v on the grid g.\n\n\n\n\n\n"
+},
+
+{
+    "location": "man/functions/#PassiveTracerFlows.TracerAdvDiff.updatevars!-Tuple{Any}",
+    "page": "Functions",
+    "title": "PassiveTracerFlows.TracerAdvDiff.updatevars!",
+    "category": "method",
+    "text": "updatevars!(prob)\n\nUpdate the vars in v on the grid g with the solution in sol.\n\n\n\n\n\n"
+},
+
+{
     "location": "man/functions/#Functions-exported-from-TracerAdvDiff:-1",
     "page": "Functions",
     "title": "Functions exported from TracerAdvDiff:",
